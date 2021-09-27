@@ -1,3 +1,10 @@
+lightdm-gtk-greeter (2.0.6-1nospace) unstable; urgency=medium
+
+  * Nospace Patch
+  * Show only last login user in hidden mode
+  * Messagetext fix, turkish translation
+ -- Izzet Aydin <izzet.aydin@tubitak.gov.tr>  Mon, 27 Sep 2021 14:37:05 +0300
+
 lightdm-gtk-greeter (2.0.6-1) unstable; urgency=medium
 
   * New upstream version 2.0.6
